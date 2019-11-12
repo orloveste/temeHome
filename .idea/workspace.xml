@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31289e34-39f9-4f49-9f22-d62e615de145" name="Default Changelist" comment="" />
+    <list default="true" id="31289e34-39f9-4f49-9f22-d62e615de145" name="Default Changelist" comment="fara rosu">
+      <change afterPath="$PROJECT_DIR$/src/main/Teme2_javaAdv_1_08_nov_2019/Plante/Plante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme2_javaAdv_1_08_nov_2019/Plante/Plante_run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme2_javaAdv_1_08_nov_2019/Plante/plante_Conifere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme2_javaAdv_1_08_nov_2019/Plante/plante_Erbacee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme2_javaAdv_1_08_nov_2019/Plante/plante_Graminee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme2_javaAdv_1_08_nov_2019/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme3_javaAdv_15_nov_2019/AbstractClinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme3_javaAdv_15_nov_2019/AbstractPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme3_javaAdv_15_nov_2019/ClinicRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme3_javaAdv_15_nov_2019/HumanClinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme3_javaAdv_15_nov_2019/HumanPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme3_javaAdv_15_nov_2019/PetClinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Teme3_javaAdv_15_nov_2019/PetPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Teme2_javaAdv_1_08_nov_2019/Plante/PlanteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs2Variabile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Curs2Variabile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises_strings1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Exercises_strings1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Gata/Tema_saptamana_1_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Gata/Tema_saptamana_1_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Tema_saptamana_1_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Tema_saptamana_1_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_1/Tema_saptamana_1_10_Matrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_1/Tema_saptamana_1_10_Matrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_1_Sir_afisare_intervale_0_2_4_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_1_Sir_afisare_intervale_0_2_4_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_2_1_afisareTextDacaIntroduciNumere1_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_2_1_afisareTextDacaIntroduciNumere1_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_2_2_afiseaza_numere_impare_mai_mici.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_2_2_afiseaza_numere_impare_mai_mici.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_2_3_bucla_numerica_pana_la_duble_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_2_3_bucla_numerica_pana_la_duble_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_2_Sir_afisare_numere_impare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_2_Sir_afisare_numere_impare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_3_afisare_numere_care_se_impart_la_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_3_afisare_numere_care_se_impart_la_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_4_afiseaza_numerele_maiMari_decat_cel_introdus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_4_afiseaza_numerele_maiMari_decat_cel_introdus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_5_afiseaza_sirul_in_ordine_inversa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_5_afiseaza_sirul_in_ordine_inversa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_6_sa_afisezi_suma_nr_negative_din_sir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_6_sa_afisezi_suma_nr_negative_din_sir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_7_afiseaza_suma_numerelor_pare_din_sir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_7_afiseaza_suma_numerelor_pare_din_sir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_8_afiseaza_media_numerelor_din_sir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_8_afiseaza_media_numerelor_din_sir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/Gata/_9_afiseaza_numerele_pozitiveDinSir_si_fa_mediaLor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/Gata/_9_afiseaza_numerele_pozitiveDinSir_si_fa_mediaLor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/_10_citesti_2_numereTastatura_afiseziDoarNumereleDinInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/_10_citesti_2_numereTastatura_afiseziDoarNumereleDinInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/_11_afiseaza_NrMaximDinSir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/_11_afiseaza_NrMaximDinSir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/_12_verificare_sir_in_oglinda_fata_de_jumatatea_lui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/_12_verificare_sir_in_oglinda_fata_de_jumatatea_lui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/_2_4_Cuvant_afisat_in_4_moduri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/_2_4_Cuvant_afisat_in_4_moduri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/_2_5_VectorDeCuvinte_afiseaza_doar_cuv_cu_prima_litera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/_2_5_VectorDeCuvinte_afiseaza_doar_cuv_cu_prima_litera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/_3_1_sir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/_3_1_sir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_2/arrays_site.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_2/arrays_site.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_21_25_oct/JocZaruri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_21_25_oct/JocZaruri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_21_25_oct/Revizie/Matrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_21_25_oct/Revizie/Matrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_21_25_oct/Revizie/Produse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_21_25_oct/Revizie/Produse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_21_25_oct/Revizie/factorialBigDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_21_25_oct/Revizie/factorialBigDecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_21_25_oct/Revizie/for_vs_enhancedFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_21_25_oct/Revizie/for_vs_enhancedFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_21_25_oct/Revizie/nr_aparitii_in_sir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_21_25_oct/Revizie/nr_aparitii_in_sir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tema_saptamana_21_25_oct/Revizie/static_vs_nonstatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/Tema_saptamana_21_25_oct/Revizie/static_vs_nonstatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteexe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Teme1_JavaFundamentals/byteexe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test1.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,18 +69,50 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RxIMAxT5TetXHjsSC5K09gpx1s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Tema_saptamana_04_08_nov_2019" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Tema_javaAdv_1_08_nov_2019" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vcs.patch.path" value="$APPLICATION_HOME_DIR$/jbr/bin/https:/github.com/orloveste" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Tema_javaAdv_1_08_nov_2019.Plante" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\My projects\Home\src\test\Tema_javaAdv_1_08_nov_2019" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\My projects\Home\src\test\Teme2_javaAdv_1_08_nov_2019\Plante" />
+      <recent name="C:\Users\Lenovo\Documents\My projects\Home\src\test\Tema_javaAdv_1_08_nov_2019\Plante" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,11 +128,11 @@
   </component>
   <component name="RunManager" selected="Application.main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema_saptamana_21_25_oct.Revizie.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.Teme1_JavaFundamentals.Tema_saptamana_21_25_oct.Revizie.Main" />
       <module name="Home" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tema_saptamana_21_25_oct.Revizie.*" />
+          <option name="PATTERN" value="main.Teme1_JavaFundamentals.Tema_saptamana_21_25_oct.Revizie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,7 +145,7 @@
       <module name="Home" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tema_saptamana_21_25_oct.Revizie.*" />
+          <option name="PATTERN" value="main.Teme1_JavaFundamentals.Tema_saptamana_21_25_oct.Revizie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +154,11 @@
       </method>
     </configuration>
     <configuration name="factorialBigDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema_saptamana_21_25_oct.Revizie.factorialBigDecimal" />
+      <option name="MAIN_CLASS_NAME" value="main.Teme1_JavaFundamentals.Tema_saptamana_21_25_oct.Revizie.factorialBigDecimal" />
       <module name="Home" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tema_saptamana_21_25_oct.Revizie.*" />
+          <option name="PATTERN" value="main.Teme1_JavaFundamentals.Tema_saptamana_21_25_oct.Revizie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,11 +167,11 @@
       </method>
     </configuration>
     <configuration name="for_vs_enhancedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema_saptamana_21_25_oct.Revizie.for_vs_enhancedFor" />
+      <option name="MAIN_CLASS_NAME" value="main.Teme1_JavaFundamentals.Tema_saptamana_21_25_oct.Revizie.for_vs_enhancedFor" />
       <module name="Home" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tema_saptamana_21_25_oct.Revizie.*" />
+          <option name="PATTERN" value="main.Teme1_JavaFundamentals.Tema_saptamana_21_25_oct.Revizie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +180,11 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tema_saptamana_21_25_oct.main" />
+      <option name="MAIN_CLASS_NAME" value="main.Tema_saptamana_21_25_oct.main" />
       <module name="Home" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tema_saptamana_21_25_oct.*" />
+          <option name="PATTERN" value="main.Teme1_JavaFundamentals.Tema_saptamana_21_25_oct.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,6 +213,14 @@
       <option name="presentableId" value="Default" />
       <updated>1570602269651</updated>
     </task>
+    <task id="LOCAL-00001">
+      <created>1572943559361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572943559361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,10 +228,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fara rosu" />
+    <option name="LAST_COMMIT_MESSAGE" value="fara rosu" />
   </component>
 </project>
