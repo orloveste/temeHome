@@ -19,4 +19,5 @@ public abstract class AbstractPatient {
     public String toString() {
         return super.toString();
     }
+
 }

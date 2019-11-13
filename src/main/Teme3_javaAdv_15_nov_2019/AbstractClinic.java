@@ -19,5 +19,9 @@ public abstract class AbstractClinic {
     public AbstractPatient[] getCurrentPatient() {
         return currentPatient;
     }
+//    protected abstract int cliniCapacity();
+//    public void cliniCapacity(int capacity) { }
+
+
 
 }
