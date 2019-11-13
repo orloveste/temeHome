@@ -6,17 +6,18 @@ public abstract class AbstractClinic {
 //this field in the subclasses, you need to make sure it’s protected
     protected AbstractPatient[] currentPatient;
 //● Create three abstract methods :
-    public void takeInNewPatient(){ }//(Patient newPatient); // nu stiu ce fac cu ei inca
-    public void releasePatient(){ }//(Patient existingPatient); // nu stiu ce fac cu ei inca
+    public void takeInNewPatient(AbstractPatient newPatient){ }//(Patient newPatient);
+    public void releasePatient(AbstractPatient existingPatient){ }//(Patient existingPatient);
     public void listCurrentPatients(){ }
 // ● Create a constructor that takes one parameter of type AbstractPatient[]. This means that
 //the constructor takes an array of AbstractPatients. This parameter should set the value
 //of the currentPatients field.
 //● Create a getter for currentPatients.
+    public void setCurrentPatient(AbstractPatient[] currentPatient) {
+        this.currentPatient = currentPatient;
+}
     public AbstractPatient[] getCurrentPatient() {
         return currentPatient;
     }
-    public void setCurrentPatient(AbstractPatient[] currentPatient) {
-        this.currentPatient = currentPatient;
-    }
+
 }
